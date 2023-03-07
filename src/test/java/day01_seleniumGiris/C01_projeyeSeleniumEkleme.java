@@ -12,5 +12,6 @@ package day01_seleniumGiris;
         2- bunlari unzip yapip, projemizde olusturdugumuz drivers klasorune tasiyoruz
         3- projeye selenium kutuphanelerini (jar dosyalarini) ekliyoruz
      */
+        // merhaba selenium
 
     }
