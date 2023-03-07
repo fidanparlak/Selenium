@@ -40,9 +40,4 @@ public class c13 extends TestBase {
      //   jse.executeScript("alert('islem basari ile tamamlandi.:::::))))))))')");
 
     }
-    }/*git init
-    git add README.md
-        git commit -m "first commit"
-        git branch -M main
-        git remote add origin https://github.com/fidanparlak/SeleniumTeam108.git
-        git push -u origin main*/
+    }
